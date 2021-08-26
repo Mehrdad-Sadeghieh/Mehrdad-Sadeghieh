@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mehrdad-Sadeghieh
+- 👀 I’m interested in Machine Learning, Additive Manufacturing, Bioengineering, CAD/CAM, Green Engineering
+- 🌱 I’m currently learning Machine Learning, GAN, Convoloutinal Neural Networks 
