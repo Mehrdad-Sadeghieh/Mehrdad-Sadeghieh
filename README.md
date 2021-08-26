@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @Mehrdad-Sadeghieh
+-    M.Sc. in Mechanical Engineering- Applied Mechanics
+-    Thesis Title: "Integration of Numerical Control and Computer Aided Design in 2D sketching"
 - 👀 I’m interested in Machine Learning, Additive Manufacturing, Bioengineering, CAD/CAM, Green Engineering
 - 🌱 I’m currently learning Machine Learning, GAN, Convoloutinal Neural Networks 
